@@ -2,7 +2,7 @@ package p_04_BuilderPattern;
 
 
 
-public abstract class CodeDrink implements Item
+public abstract class ColdDrink implements Item
 {
 
 	@ Override
