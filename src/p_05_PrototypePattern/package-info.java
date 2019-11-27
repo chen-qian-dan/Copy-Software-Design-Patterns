@@ -1,0 +1,1 @@
+package p_05_PrototypePattern;
